@@ -1,0 +1,78 @@
+/* .footer{
+    color: white;
+    background-color:  #232f3E;
+    padding: 50px 20px;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+.amazoneImg{
+    margin-top: 40px;
+}
+.amzonImgFooter{
+    width: 110px;
+}
+.footerContent{
+    display: flex;
+    justify-content: space-between;
+    width: 70%;
+}
+.contentFooterTitle{
+    font-weight: 600;
+}
+.contentFooterSubTitleDiv{
+    margin-top: 10px;
+    font-size: 14px;
+}
+.contentFooterSubTitleCont{
+    margin-bottom: 10px;
+} */
+ /* Main page container */
+.pageContainer {
+    display: flex;
+    flex-direction: column;
+    min-height: 100vh;
+}
+
+/* Content section above the footer */
+.pageContent {
+    flex-grow: 1;
+}
+
+/* Footer */
+.footer {
+    color: white;
+    background-color: #232f3E;
+    padding: 50px 20px;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    margin-top: auto; /* This pushes footer to the bottom if there’s extra space */
+}
+
+.amazoneImg {
+    margin-top: 40px;
+}
+
+.amzonImgFooter {
+    width: 110px;
+}
+
+.footerContent {
+    display: flex;
+    justify-content: space-between;
+    width: 70%;
+}
+
+.contentFooterTitle {
+    font-weight: 600;
+}
+
+.contentFooterSubTitleDiv {
+    margin-top: 10px;
+    font-size: 14px;
+}
+
+.contentFooterSubTitleCont {
+    margin-bottom: 10px;
+}

@@ -1,0 +1,187 @@
+/* .homeBanner {
+    width: 100%;
+    object-fit: contain;
+    background-repeat: no-repeat;
+    position: relative;
+}
+
+.homeBannerimg {
+    height: 80vh;
+    width: 100% !important;
+    object-fit: cover;
+    mask-image: linear-gradient(to bottom, rgba(0, 0, 0, 1), rgba(0, 0, 0, 0));
+}
+
+.grayBackgroundHomeBanner {
+    background-color: rgb(238, 235, 235);
+    height: 80vh;
+}
+
+.homeBannerItemDiv {
+    display: grid;
+    grid-template-columns: repeat(4, 1fr); 
+    gap: 20px;
+    top: 22%;
+    padding: 0 20px;
+    position: absolute;
+    width: 100%;
+    box-sizing: border-box;
+}
+
+.homeBannerItemDivCard {
+    display: flex;
+    flex-direction: column;
+    background-color: white;
+    border-radius: 8px;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+    padding: 15px;
+    box-sizing: border-box;
+    width: 100%;
+    max-width: 340px;
+    text-align: center;
+    transition: transform 0.3s ease;
+}
+
+.homeBannerItemDivCard:hover {
+    transform: scale(1.05);
+}
+
+.homeBannerItemDivCardTitle {
+    margin: 10px 0;
+    font-size: 18px;
+    font-weight: 700;
+    color: #333;
+}
+
+.imgHomeBannerItemDivCard {
+    display: grid;
+    grid-template-columns: 1fr 1fr;
+    gap: 10px;
+    padding: 10px;
+}
+
+.imgBannerHomeDiv {
+    height: 140px;
+    width: 100%; 
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    overflow: hidden;
+}
+
+.imgBannerHomeDivImg {
+    width: 100%;
+    height: auto;
+    object-fit: contain;
+}
+
+.imgBannerImgName {
+    font-size: 14px;
+    font-weight: 500;
+    color: #555;
+    margin-top: 8px;
+}
+
+.seeMoreHomeBanner {
+    margin: 10px 20px;
+    font-size: 14px;
+    color: #007185;
+    font-weight: 600;
+    cursor: pointer;
+    text-align: center;
+} */
+
+.homeBanner {
+    width: 100%;
+    position: relative;
+    background-color: rgb(238, 235, 235); /* Added background to container */
+    display: flex;
+    justify-content: center;
+    height: 130vh;
+
+}
+
+.homeBannerimg {
+    height: 80vh;
+    width: 75%;
+    object-fit: cover;
+    margin: 0 auto;
+    /* mask-image: linear-gradient(to bottom, rgba(0, 0, 0, 1), rgba(0, 0, 0, 0)); */
+}
+
+.homeBannerItemDiv {
+    display: grid;
+    grid-template-columns: repeat(4, 1fr); /* Ensures 4 cards per row */
+    gap: 20px;
+    position: absolute;
+    top: 25%;
+    padding: 0 20px;
+    width: 75%; /* Matches the width of the image */
+    margin: 0 auto;
+    box-sizing: border-box;
+}
+
+.homeBannerItemDivCard {
+    display: flex;
+    flex-direction: column;
+    background-color: white;
+    border-radius: 8px;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+    padding: 15px;
+    box-sizing: border-box;
+    max-width: 300px;
+    text-align: center;
+    transition: transform 0.3s ease;
+}
+
+.homeBannerItemDivCard:hover {
+    transform: scale(1.05);
+}
+
+.homeBannerItemDivCardTitle {
+    margin: 10px 0;
+    font-size: 18px;
+    font-weight: 700;
+    color: #333;
+}
+
+.imgHomeBannerItemDivCard {
+    display: grid;
+    grid-template-columns: 1fr 1fr; /* Creates 2x2 grid */
+    gap: 10px;
+    margin: 10px 0;
+}
+
+.imgBannerHomeDiv {
+    height: 120px;
+    width: 100%;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    overflow: hidden;
+}
+
+.imgBannerHomeDivImg {
+    width: 100%;
+    height: 100%;
+    object-fit: contain;
+}
+
+.imgBannerImgName {
+    font-size: 14px;
+    font-weight: 500;
+    color: #555;
+    margin-top: 8px;
+    text-align: center;
+}
+
+.seeMoreHomeBanner {
+    margin: 10px 0;
+    font-size: 14px;
+    color: #007185;
+    font-weight: 600;
+    cursor: pointer;
+    text-align: center;
+}

@@ -1,0 +1,135 @@
+{
+    "deals": [
+      {
+        "title": "Today's Deals",
+        "items": [
+          {
+            "imageUrl": "https://m.media-amazon.com/images/I/61egMfcDWlL._AC_UL320_.jpg",
+            "discount": "Up to 70% off",
+            "dealType": "Limited Time Deal",
+            "description": "Anti Theft Number Lock Backpack Bag with 15.6 Inch Laptop Compartment, USB Charging Port & Organizer Pocket for Men Women Boys Girls"
+          },
+          {
+            "imageUrl": "https://m.media-amazon.com/images/I/61-Y-eWXqtL._AC_UY218_.jpg",
+            "discount": "50% off",
+            "dealType": "Deal of the Day",
+            "description": "HP Chromebook 14-inch Thin & Light Touchscreen Laptop"
+          },
+          {
+            "imageUrl": "https://m.media-amazon.com/images/I/81lGxS2ZisL._AC_UY218_.jpg",
+            "discount": "Up to 40% off",
+            "dealType": "Lightning Deal",
+            "description": "Echo Dot (3rd Gen) - Smart Speaker with Alexa"
+          },
+          {
+            "imageUrl": "https://m.media-amazon.com/images/I/51JjCXkjBRL._AC_UY218_.jpg",
+            "discount": "Up to 30% off",
+            "dealType": "Limited Time Deal",
+            "description": "Bose QuietComfort Noise Cancelling Wireless Earbuds"
+          },
+          {
+            "imageUrl": "https://m.media-amazon.com/images/I/71JmLzcRE8L._AC_UY218_.jpg",
+            "discount": "Up to 25% off",
+            "dealType": "Exclusive Offer",
+            "description": "Apple Watch Series 8 GPS + Cellular, 45mm"
+          },
+          {
+            "imageUrl": "https://m.media-amazon.com/images/I/71+xvMkS3hL._AC_UL320_.jpg",
+            "discount": "60% off",
+            "dealType": "Limited Time Deal",
+            "description": "Instant Pot Duo 7-in-1 Electric Pressure Cooker"
+          },
+          {
+            "imageUrl": "https://m.media-amazon.com/images/I/51V8-16lsTL._AC_UY218_.jpg",
+            "discount": "45% off",
+            "dealType": "Flash Sale",
+            "description": "Beats Studio3 Wireless Noise Cancelling Over-Ear Headphones"
+          },
+          {
+            "imageUrl": "https://m.media-amazon.com/images/I/61fTfbdaszL._AC_UY218_.jpg",
+            "discount": "Up to 20% off",
+            "dealType": "Hot Deal",
+            "description": "Fitbit Versa 2 Health & Fitness Smartwatch"
+          },
+          {
+            "imageUrl": "https://m.media-amazon.com/images/I/81fJZzrwZoL._AC_UY218_.jpg",
+            "discount": "Up to 10% off",
+            "dealType": "Limited Time Deal",
+            "description": "Kindle Paperwhite (8 GB) – Now with a 6.8\" display and adjustable warm light"
+          },
+          {
+            "imageUrl": "https://m.media-amazon.com/images/I/71mq+2EjRfL._AC_UY218_.jpg",
+            "discount": "30% off",
+            "dealType": "Special Offer",
+            "description": "JBL Flip 6 Portable Bluetooth Speaker"
+          }
+        ]
+      },
+      {
+        "title": "Today's Offers",
+        "items": [
+          {
+            "imageUrl": "https://m.media-amazon.com/images/I/71xb2xkN5qL._AC_UY218_.jpg",
+            "discount": "15% off",
+            "dealType": "Flash Sale",
+            "description": "Apple iPhone 13 Mini, Starting at ₹69,999"
+          },
+          {
+            "imageUrl": "https://m.media-amazon.com/images/I/510cs9VwjUL._AC_UY218_.jpg",
+            "discount": "20% off",
+            "dealType": "Limited Offer",
+            "description": "Sony WH-1000XM4 Wireless Premium Noise Cancelling Headphones"
+          },
+          {
+            "imageUrl": "https://m.media-amazon.com/images/I/81cHpJNr07L._AC_UY218_.jpg",
+            "discount": "Up to 50% off",
+            "dealType": "Mega Deal",
+            "description": "Samsung Galaxy S21 FE 5G, 128GB"
+          },
+          {
+            "imageUrl": "https://m.media-amazon.com/images/I/61fDxgcyBDL._AC_UY218_.jpg",
+            "discount": "Up to 30% off",
+            "dealType": "Special Discount",
+            "description": "OnePlus Nord CE 2 Lite 5G | Starting at ₹17,499"
+          },
+          {
+            "imageUrl": "https://m.media-amazon.com/images/I/61kNe76GwHL._AC_UY218_.jpg",
+            "discount": "Up to 40% off",
+            "dealType": "Flash Deal",
+            "description": "Canon EOS 1500D 24.1 Digital SLR Camera"
+          },
+          {
+            "imageUrl": "https://m.media-amazon.com/images/I/61-Y-eWXqtL._AC_UY218_.jpg",
+            "discount": "30% off",
+            "dealType": "Limited Time Deal",
+            "description": "Mi Notebook 14 Thin and Light Laptop, 8GB/256GB"
+          },
+          {
+            "imageUrl": "https://m.media-amazon.com/images/I/21hvQHWbBzL._AC_UY218_.jpg",
+            "discount": "35% off",
+            "dealType": "Flash Sale",
+            "description": "Dyson V11 Absolute Pro Cord-Free Vacuum Cleaner"
+          },
+          {
+            "imageUrl": "https://m.media-amazon.com/images/I/71ydzmWXW0L._AC_UY218_.jpg",
+            "discount": "Up to 60% off",
+            "dealType": "Flash Deal",
+            "description": "LG 43 inches 4K Ultra HD Smart LED TV"
+          },
+          {
+            "imageUrl": "https://m.media-amazon.com/images/I/6104CfOboiL._AC_UY218_.jpg",
+            "discount": "Up to 25% off",
+            "dealType": "Special Offer",
+            "description": "Asus TUF Gaming F15 Laptop"
+          },
+          {
+            "imageUrl": "https://m.media-amazon.com/images/I/51ljnEaW0pL._AC_UL320_.jpg",
+            "discount": "50% off",
+            "dealType": "One-Day Offer",
+            "description": "Sony PlayStation 5 Console (PS5)"
+          }
+        ]
+      }
+    ]
+  }
+  
